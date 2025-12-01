@@ -1,4 +1,4 @@
-# sunsetr
+# Sunsetr
 
 My Sunsetr settings
 
