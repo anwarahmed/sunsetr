@@ -8,7 +8,7 @@ https://github.com/psi4j/sunsetr
 Docs:  
 https://github.com/psi4j/sunsetr/blob/main/docs/src/SUMMARY.md
 
-Copy the contents of this repository to `~/.config/hypr`.
+Copy the contents of this repository to `~/.config/sunsetr`.
 The following files can be ignored:
 
 - `README.md`
